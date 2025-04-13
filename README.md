@@ -4,13 +4,13 @@
 
 ---
 
-### 🌟 **About Me**  
-I'm a **C/C++ developer** with a passion for **high-performance systems** and **database engineering**.  
-🔹 Building **optimized solutions** with a focus on memory efficiency and low-level magic.  
-🔹 Open-source contributor and Linux enthusiast.  
-🔹 Currently diving deeper into **PostgreSQL internals** and **multithreading patterns**.  
+### 💻 **Code & Crude Oil**  
+I’m a **C/C++ backend developer** currently sharpening my skills at **School 21 by Sber**.  
 
-⚡ Fun fact: I can recite the C++ standard library headers alphabetically... *almost*.
+🔧 **Past Life**:  
+- 🛢️ **Master’s in Oil & Gas Engineering + Economics**  
+- ⛏️ **3 years as a Drilling Engineer**  
+- 💡 **Pivoted to IT** because solving problems with code > solving them with wrenches  
 
 ---
 
