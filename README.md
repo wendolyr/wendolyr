@@ -9,6 +9,8 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/-CMake-064F8C?logo=cmake&logoColor=white)
+![Make](https://img.shields.io/badge/-Make-
 
 ---
 
