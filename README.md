@@ -9,7 +9,7 @@ I’m a **C/C++ backend developer**
 
 🔧 **Past Life**:  
 - 🛢️ **Master’s in Oil & Gas Engineering + Economics**  
-- ⛏️ **3 years as a Drilling Engineer**  
+- ⛏️ **3 years as a Drilling Engineer in Rosneft**  
 - 💡 **Pivoted to IT** because solving problems with code > solving them with wrenches  
 
 🚀 **Now**: Sharpening my skills at **School 21 by Sber** and trying to get a job in IT 🥹  
