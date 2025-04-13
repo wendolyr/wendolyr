@@ -38,7 +38,7 @@ I’m a **C/C++ backend developer**
 ---
 
 ### 📫 **Let's Connect**  
-<div align="center">
+<div>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/arsekhlyan)  
 [![VK](https://img.shields.io/badge/-VK-0077FF?logo=vk&logoColor=white&style=for-the-badge)](https://vk.com/arsekhlyan)  
