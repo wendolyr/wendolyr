@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Привет%2C+я+[Твоё+Имя]!;Разработчик%2C+мечтатель%2C+новатор🚀" alt="Анимированный текст" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Привет%2C+я+Арсен!;Разработчик%2C+мечтатель%2C+новатор🚀" alt="Анимированный текст" />
 </div>
 
 ---
