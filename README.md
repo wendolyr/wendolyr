@@ -25,18 +25,6 @@ I’m a **C/C++ backend developer**
 
 ---
 
-### 📊 **GitHub Stats**  
-[![My Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true)](https://github.com/YOUR-USERNAME)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true)](https://github.com/YOUR-USERNAME)  
-
----
-
-### 🚀 **Featured Projects**  
-🔹 **[Project Alpha](https://github.com/...)** — A high-performance C++17 thread pool with zero-cost abstractions.  
-🔹 **[Database Toolkit](https://github.com/...)** — PostgreSQL extensions for time-series data analysis.  
-
----
-
 ### 📫 **Let's Connect**  
 <div>
 
