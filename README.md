@@ -38,9 +38,13 @@ I’m a **C/C++ backend developer**
 ---
 
 ### 📫 **Let's Connect**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/...)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/...)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your@email.com)  
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/arsekhlyan)  
+[![VK](https://img.shields.io/badge/-VK-0077FF?logo=vk&logoColor=white&style=for-the-badge)](https://vk.com/arsekhlyan)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:arsekhlyan@gmail.com)  
+
+</div>
 
 ---
 
