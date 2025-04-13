@@ -5,7 +5,7 @@
 ---
 
 ### 💻 **Code & Crude Oil**  
-I’m a **C/C++ backend developer** currently sharpening my skills at **School 21 by Sber**.  
+I’m a **C/C++ backend developer**  
 
 🔧 **Past Life**:  
 - 🛢️ **Master’s in Oil & Gas Engineering + Economics**  
@@ -13,6 +13,15 @@ I’m a **C/C++ backend developer** currently sharpening my skills at **School 2
 - 💡 **Pivoted to IT** because solving problems with code > solving them with wrenches  
 
 🚀 **Now**: Sharpening my skills at **School 21 by Sber** and trying to get a job in IT 🥹  
+
+<div align="center">
+  <pre>
+  ┌──────────────────────────────────────────┐
+  │  From:   Drill Bits                      │
+  │    To:   Bit Manipulation                │
+  └──────────────────────────────────────────┘
+  </pre>
+</div>
 
 ---
 
