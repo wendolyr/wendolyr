@@ -14,14 +14,7 @@ I’m a **C/C++ backend developer**
 
 🚀 **Now**: Sharpening my skills at **School 21 by Sber** and trying to get a job in IT 🥹  
 
-<div align="center">
-  <pre>
-  ┌──────────────────────────────────────────┐
-  │  From:   Drill Bits                      │
-  │    To:   Bit Manipulation                │
-  └──────────────────────────────────────────┘
-  </pre>
-</div>
+![Currently Learning](https://img.shields.io/badge/-Currently%20Learning-00599C?logo=c%2B%2B&logoColor=white&labelColor=2b2d42&style=for-the-badge&link=https://github.com/YOUR-USERNAME)
 
 ---
 
