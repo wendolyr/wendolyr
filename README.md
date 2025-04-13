@@ -23,3 +23,17 @@ I’m a **C/C++ backend developer**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
+---
+
+### 🎸 **Hobbies & Interests**  
+
+<div align="center">
+  
+  ```c
+  // When I'm not coding...
+  #include <passions.h>
+  
+  void hobbies() {
+      optimize_life(algorithms);       // 🧠 Solving problems elegantly
+      play_music(guitar);              // 🎸 Fingerstyle & rock
+  }
