@@ -27,7 +27,7 @@ I’m a **C/C++ backend developer**
 
 ### 🎸 **Hobbies & Interests**  
 
-<div align="center">
+<div>
   
   ```c
   // When I'm not coding...
@@ -37,3 +37,5 @@ I’m a **C/C++ backend developer**
       optimize_life(algorithms);       // 🧠 Solving problems elegantly
       play_music(guitar);              // 🎸 Fingerstyle & rock
   }
+```
+</div>
