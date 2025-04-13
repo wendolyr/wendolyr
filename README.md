@@ -45,10 +45,3 @@ I’m a **C/C++ backend developer**
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:arsekhlyan@gmail.com)  
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blueviolet&style=flat-square" alt="Profile views" />  
-  <img src="https://img.shields.io/github/followers/YOUR-USERNAME?label=Follow%20me%20for%20more%20code!&style=social" />  
-</div>
