@@ -23,13 +23,3 @@ I’m a **C/C++ backend developer**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
----
-
-### 📫 **Let's Connect**  
-<div>
-
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/arsekhlyan)  
-[![VK](https://img.shields.io/badge/-VK-0077FF?logo=vk&logoColor=white&style=for-the-badge)](https://vk.com/arsekhlyan)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:arsekhlyan@gmail.com)  
-
-</div>
