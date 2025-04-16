@@ -1,4 +1,4 @@
-<center><span style="color: red;">Этот текст красный и по центру</span></center>
+<div style="text-align: center;"># Hi, there! My name is Arsen! </div>
 
 ---
 
