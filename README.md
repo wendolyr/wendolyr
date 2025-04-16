@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Hi+there!+My+name+is+Arsen!;Developer%2C+Dreamer%2C+Innovator🚀" alt="Animated typing text" />
+  Hi, there! My name is Arsen :)
 </div>
 
 ---
