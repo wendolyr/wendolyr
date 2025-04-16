@@ -41,6 +41,6 @@ I’m a **C/C++ backend developer**
 ---
 
 ### 🧠 Leetcode
-<div style="text-align: center;">
-[![LeetCode Stats](https://leetcode.card.workers.dev/?username=wendolyr&theme=dark)](https://leetcode.com/wendolyr/)
+<div style="text-align: center;">  
+[![LeetCode Stats](https://leetcode.card.workers.dev/?username=wendolyr&theme=dark)](https://leetcode.com/wendolyr/)  
 </div>
