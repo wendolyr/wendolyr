@@ -40,9 +40,9 @@ I’m a **C/C++ backend developer**
 
 ---
 
-### 🧠 Leetcode
-<div style="text-align: center;">  
-
-  [![LeetCode Stats](https://leetcode.card.workers.dev/?username=wendolyr&theme=dark)](https://leetcode.com/wendolyr/)  
-  
-</div>
+## 🏆 LeetCode Progress
+<center>
+  <a href="https://leetcode.com/wendolyr">
+    <img src="https://leetcode.card.workers.dev/?username=wendolyr&theme=dark" alt="LeetCode Stats" />
+  </a>
+</center>
