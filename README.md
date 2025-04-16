@@ -42,5 +42,5 @@ I’m a **C/C++ backend developer**
 
 ## 🏆 LeetCode Progress
 <center>
-  ![](https://leetcard.jacoblin.cool/jacoblincool?ext=activity)
+  ![](https://leetcard.wendolyr/wendolyr?ext=activity)
 </center>
