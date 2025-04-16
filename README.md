@@ -37,3 +37,5 @@ I’m a **C/C++ backend developer**
   }
 ```
 </div>
+
+[![LeetCode Stats](https://leetcode.card.workers.dev/?username=ваш_leetcode_username&theme=light)](https://leetcode.com/wendolyr/)
