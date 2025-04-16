@@ -42,5 +42,7 @@ I’m a **C/C++ backend developer**
 
 ## 🏆 LeetCode Progress
 <center>
-  ![](https://leetcard.wendolyr/leetcode?site=cn)
+  <a href="https://leetcode.com/your_username/">
+    <img src="https://leetcode.card.workers.dev/?username=your_username&theme=dark" alt="LeetCode Stats" />
+  </a>
 </center>
