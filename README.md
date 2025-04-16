@@ -1,4 +1,4 @@
-<div style="color: red; text-align: center;">Этот текст красный и по центру</div>
+<center><span style="color: red;">Этот текст красный и по центру</span></center>
 
 ---
 
