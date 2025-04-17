@@ -41,10 +41,15 @@ I’m a **C/C++ backend developer**
 ---
 
 ### 🏆 LeetCode Progress
-<center>
-  <a href="https://leetcode.com/wendolyr/">
-    <img src="https://leetcode.card.workers.dev/?username=wendolyr&theme=dark" alt="LeetCode Stats" />
-  </a>
-</center>
+<br/>
+
+<a href="https://leetcode.com/Manifoldz/">
+  <p align="center">
+    <img width="400" height="250" src="https://leetcard.jacoblin.cool/wendolyr">
+  </p>
+</a>
+
+
+<br/>  
 
 ---
