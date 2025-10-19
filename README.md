@@ -8,7 +8,7 @@ I’m a **C/C++ backend developer**
 🔧 **Past Life**:  
 - 🛢️ **Master’s in Oil & Gas Engineering + Economics**  
 - ⛏️ **3 years as a Drilling Engineer in Rosneft**  
-- 💡 **Pivoted to IT** because solving problems with code > solving them with wrenches  
+- 💡 **Pivoted to IT** since 2024 
 
 🚀 **Now**: Sharpening my skills at **School 21 by Sber** and trying to get a job in IT 🥹  
 
@@ -30,14 +30,51 @@ I’m a **C/C++ backend developer**
 
 <div>
   
-  ```c
-  // When I'm not coding...
-  #include <passions.h>
-  
-  void hobbies() {
-      optimize_life(algorithms);       // 🧠 Solving problems elegantly
-      play_music(guitar);              // 🎸 Fingerstyle & rock
-  }
+```cpp
+#include <memory>
+
+class Hobby {
+public:
+    virtual void execute() = 0;
+    virtual ~Hobby() = default;
+};
+
+class AlgorithmSolving : public Hobby {
+public:
+    void execute() override {
+        find_optimal_solution();
+    }
+};
+
+class GuitarPlaying : public Hobby {
+public:
+    void execute() override {
+        play_fingerstyle();
+        play_rock_music();
+    }
+};
+
+class BookReading : public Hobby {
+public:
+    void execute() override {
+        absorb_knowledge();
+        read_fiction();
+    }
+};
+
+class HobbyContext {
+    std::unique_ptr<Hobby> strategy_;
+public:
+    void setStrategy(std::unique_ptr<Hobby> strategy) {
+        strategy_ = std::move(strategy);
+    }
+    
+    void FreeTime() {
+        if (strategy_) {
+            strategy_->execute();
+        }
+    }
+};
 ```
 </div>
 
