@@ -1,7 +1,9 @@
-<h1 align="center">
-  🌍 <a href="#english">English</a> • 
-  <a href="#russian">Русский</a> 🌍
-</h1>
+<div align="center">
+  
+[![English](https://img.shields.io/badge/🇺🇸_English-00599C?style=for-the-badge)](#english)
+[![Русский](https://img.shields.io/badge/🇷🇺_Русский-00599C?style=for-the-badge)](#russian)
+
+</div>
 
 ---
 
