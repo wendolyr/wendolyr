@@ -15,11 +15,14 @@ I’m a **C/C++ backend developer**
 ---
 
 ### 🛠️ **Tech Stack**  
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/-CI/CD-FF6B6B?logo=githubactions&logoColor=white)
 
 ---
 
