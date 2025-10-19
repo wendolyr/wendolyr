@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a href="#english">eng</a> •
-  <a href="#russian">ru</a>
+  🌍 <a href="#english">English</a> • 
+  <a href="#russian">Русский</a> 🌍
 </h1>
 
 ---
