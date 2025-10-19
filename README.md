@@ -49,7 +49,6 @@ public:
 class GuitarPlaying : public Hobby {
 public:
     void execute() override {
-        play_fingerstyle();
         play_rock_music();
     }
 };
@@ -57,7 +56,6 @@ public:
 class BookReading : public Hobby {
 public:
     void execute() override {
-        absorb_knowledge();
         read_fiction();
     }
 };
