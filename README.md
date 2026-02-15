@@ -36,6 +36,8 @@ I’m a **C++/Go developer**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-FF6B6B?logo=githubactions&logoColor=white)
+![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ---
 
